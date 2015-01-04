@@ -30,12 +30,12 @@ nav {
 	text-decoration: none;
 }
 
-.try a {
+.try {
     background: #900000;
     display: inline;
     width: 7.2%;
     height: 3.2%;
-    padding-top: 40px;
+    padding-top: 10px;
 }
 
 .try li a {
